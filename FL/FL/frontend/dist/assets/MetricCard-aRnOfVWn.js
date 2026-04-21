@@ -1,0 +1,1 @@
+import{j as e}from"./index-cpKfrclM.js";function l({label:s,value:a,hint:r}){return e.jsxs("article",{className:"metric-card",children:[e.jsx("span",{className:"metric-label",children:s}),e.jsx("strong",{className:"metric-value",children:a}),r?e.jsx("p",{className:"metric-hint",children:r}):null]})}export{l as M};
